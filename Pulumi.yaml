@@ -1,0 +1,3 @@
+name: pulumi-k8s-ts-eks
+runtime: nodejs
+description: Pulumi Typescript AWS EKS Cluster
